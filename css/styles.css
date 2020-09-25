@@ -447,7 +447,7 @@ h3.menu-item-title {
   z-index: 1;
 }
 .items{
-   width:230px; height:200px     display: block;     padding: 4px;   margin-top: 30px;   margin-bottom: 20px;     line-height: 1.42857143;     background-color: #000;     border: 1px solid #ddd;     border-radius: 4px;     float: left;     margin-left:%;   overflow: hidden;
+   width:230px; height:200px;     display: block;     padding: 4px;   margin-top: 30px;   margin-bottom: 20px;     line-height: 1.42857143;     background-color: #000;     border: 1px solid #ddd;     border-radius: 4px;     float: left;     margin-left:%;   overflow: hidden;
 }
 .v1{
  width :230px;
