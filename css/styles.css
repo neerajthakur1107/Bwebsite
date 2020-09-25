@@ -572,12 +572,31 @@ h3.menu-item-title {
 
 /********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
 @media (max-width: 479px) {
-  /* Header */
+ /* Header */
+  #logo-img {
+  background: url('../images/pica.png') no-repeat;
+  border-radius: 80%;
+  width: 130px;
+  height: 155px;
+  margin: 10px 5px 5px 0px;
+}
+.navbar-brand {
+    padding-top: 7px;
+    height: 90px;
+    margin-left: -2px;
+    margin-top: 30px;
+  }
   .navbar-brand h1 { /* Restaurant name */
     padding-top: 5px;
-    font-size: 4.3vw;
+    font-size: 3.8vw; /* 1vw = 1% of viewport width */
   }
-
+  .navbar-brand p { /* Kosher cert */
+    font-size: .4em;
+    margin-top: 10px;
+  }
+  .navbar-brand p img { /* Star-K */
+    height: 20px;
+  }
   /* End Header */
   
   /* Home page */
@@ -594,6 +613,14 @@ h3.menu-item-title {
     float: left;
     width: 100%;
   }
+  .v1{
+  width :300px;
+   height:180px;
+}
+
+.items{
+   width:300px; height:200px;      display: block;     padding: 4px;  margin-bottom: 20px;     line-height: 1.22857143;     background-color: #000;     border: 1px solid #ddd;    border-radius: 4px;   margin-left:3%; overflow: hidden;
+}
 }
 
 
