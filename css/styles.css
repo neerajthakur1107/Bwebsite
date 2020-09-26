@@ -234,7 +234,7 @@ h3.menu-item-title {
    width:100%;     margin:auto;     overflow:hidden; 
 }
 .items{
-   width:365px; height:230px;     display: block;     padding: 4px;     margin-bottom: 20px;     line-height: 1.42857143;     background-color: #000;     border: 1px solid #ddd;     border-radius: 4px;     float: left;     margin-left:1%; overflow: hidden;
+   width:365px; height:210px;     display: block;     padding: 4px;     margin-bottom: 20px;     line-height: 1.42857143;     background-color: #000;     border: 1px solid #ddd;     border-radius: 4px;     float: left;     margin-left:1%; overflow: hidden;
 }
 .caption{
    color:#fff;     padding:0px 10px 10px;     font-weight: bold;     text-align: center; 
