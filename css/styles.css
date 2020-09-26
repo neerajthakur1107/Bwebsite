@@ -331,6 +331,10 @@ h3.menu-item-title {
   width :350px;
    height:200px;
 }
+.v2{
+  width:300px;
+   height:240px;
+}
 
 /********** Large devices only **********/
 @media (min-width: 1200px) {
